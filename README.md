@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.png" alt="Banner da Paloma Araújo" width="100%">
+</p>
+
 <h1 align="center">Olá! 👋 Eu sou a Paloma Araújo</h1>
 
 <h3 align="center">
